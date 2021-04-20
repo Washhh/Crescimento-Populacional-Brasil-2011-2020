@@ -1,5 +1,7 @@
 # Crescimento Populacional no Brasil 2011-2020
 
+The application consists of presenting the population growth in Brazil, states and municipalities. The data are obtained with requests to the IBGE database. ChartJS was used to plot the graphs and the React Router for pagination.
+
 ## Installing and running application
 
 - ### Download repository
