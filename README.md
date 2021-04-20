@@ -2,14 +2,14 @@
 
 ##Installing and running application
 
--### Download repository
+- ### Download repository
 
   You need to download/clone the repository on your machine. You can use the following git command for it:
   
-  https://github.com/Washhh/Crescimento-Populacional-Brasil-2011-2020.git
+  git clone https://github.com/Washhh/Crescimento-Populacional-Brasil-2011-2020.git
   
   
--### Install dependencies
+- ### Install dependencies
 
   To install dependencies, go to repository directory in your machine and you can use the following command:
   
@@ -18,7 +18,8 @@
   or
   yarn install
 
--### Run aplication
+- ### Run aplication
+
   To start the application, inside the folder Crescimento-Populacional-Brasil-2011-2020, run the following command:
   
   npm start
