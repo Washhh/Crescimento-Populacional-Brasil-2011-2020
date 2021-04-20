@@ -1,0 +1,23 @@
+.graphicContent{
+    width: 80%;
+    border: 1px solid #CBD5E0;
+    box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+@media(max-width:2560px) {
+    .graphicContent{
+        width: 70%;
+    }
+}
+
+@media(max-width:1500px) {
+    .graphicContent{
+        width: 75%;
+    }
+}
+
+@media(max-width:800px) {
+    .graphicContent{
+        width: 95%;
+    }
+}

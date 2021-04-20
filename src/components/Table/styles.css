@@ -1,0 +1,44 @@
+table {
+    table-layout: auto;
+}
+
+.myTable {
+    max-width: 90%;
+    border-collapse:collapse;
+    border-color:#aabcfe;
+    border-spacing:0;
+    overflow-x: auto;
+}
+.myTable th{
+    text-align: start;
+    background-color:#b9c9fe;
+    border-color:#aabcfe;
+    border-style:solid;
+    border-width:1px;
+    color:#2B6CB0;
+    padding:2px 5px;
+}
+
+.myTable td{
+    background-color:#e8edff;
+    border-color:#aabcfe;
+    border-style:solid;
+    border-width:1px;color:#669;
+    padding:8px 5px;
+}
+
+@media(max-width:1500px){
+    table{
+        font-size: 14px;
+    }
+}
+@media(max-width:1200px){
+    table{
+        font-size: 12px;
+    }
+}
+@media(max-width:1000px){
+    table{
+        font-size: 10px;
+    }
+}
